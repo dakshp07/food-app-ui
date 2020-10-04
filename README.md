@@ -50,7 +50,7 @@ $ git clone https://github.com/dakshp07/food-app-ui.git
 
 ## Images
 
-![First](images/ui_design.jpg)
+![First](images/ui_design.png)
 
 ![Second](images/Screenshot_1601650579.png)
 
